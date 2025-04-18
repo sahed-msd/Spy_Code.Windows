@@ -1,1 +1,2 @@
-<pre> ``` irm https://github.com/sahed-msd/Spy_Code.Windows.git | iex ``` </pre>
+```powershell
+irm https://raw.githubusercontent.com/sahed-msd/Spy_Code.Windows/main/Spy_Code.ps1 | iex
